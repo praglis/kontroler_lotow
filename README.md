@@ -21,7 +21,7 @@ Daniel Skórczyński (@pucaj):
   - Kontrolki symulacyjne
   - Generator map
   
-Paweł Raglis (@VukoDyas):
+Paweł Raglis (@praglis):
   - Tworzenie klas
   - Pomoc przy layoucie
   - Implementacja systemu kolizji i zagrożeń
