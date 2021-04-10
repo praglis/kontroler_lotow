@@ -11,7 +11,7 @@ Zespół:
 ## Rozkład pracy
 Pewne metody i klasy mają wyszczególnionych autorów w komentarzach kodu
 
-Daniel Skórczyński (@pucaj):
+Daniel Skórczyński ([@pucaj](https://github.com/pucaj)):
   - Layout napisany w swingu
   - Zaimplementowanie głównej pętli programu
   - Rysowanie obiektów na ekranie apliakcji
@@ -21,13 +21,13 @@ Daniel Skórczyński (@pucaj):
   - Kontrolki symulacyjne
   - Generator map
   
-Paweł Raglis (@praglis):
+Paweł Raglis ([@praglis](https://github.com/praglis)):
   - Tworzenie klas
   - Pomoc przy layoucie
   - Implementacja systemu kolizji i zagrożeń
   - Funkcjonalności klas
   
-Magdalena Sawicka (@MagdalenaSawicka):
+Magdalena Sawicka ([@MagdalenaSawicka](https://github.com/MagdalenaSawicka)):
   - Tworzenie klas
   - Logika poruszania się obiektów
   - Mechanizm wczytywania mapy
